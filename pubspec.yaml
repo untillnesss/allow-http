@@ -1,6 +1,6 @@
 name: allow_http
 description: Use this package to allow HTTP network traffic.
-version: 1.0.0
+version: 1.0.1
 homepage: https://untillnesss.github.io
 repository: https://github.com/untillnesss/allow-http.git
 
